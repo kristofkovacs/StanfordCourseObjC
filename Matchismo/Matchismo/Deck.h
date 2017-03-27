@@ -15,4 +15,5 @@
 - (void)addCard:(Card *)card;
 
 - (Card *)drawRandomCard;
+
 @end
