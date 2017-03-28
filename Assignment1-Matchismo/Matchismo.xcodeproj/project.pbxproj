@@ -51,6 +51,21 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		598BFDCC1E8A666800F45EB5 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				592A08611E895D8D002C0B94 /* Card.h */,
+				592A08621E895D8D002C0B94 /* Card.m */,
+				592A08641E896228002C0B94 /* Deck.h */,
+				598BFDC61E8A563800F45EB5 /* PlayingCard.h */,
+				598BFDC71E8A563800F45EB5 /* PlayingCard.m */,
+				598BFDC91E8A5D4400F45EB5 /* PlayingCardDeck.h */,
+				598BFDCA1E8A5D4400F45EB5 /* PlayingCardDeck.m */,
+				592A08651E896228002C0B94 /* Deck.m */,
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
 		5992324A1E895CC5005D9262 = {
 			isa = PBXGroup;
 			children = (
@@ -74,14 +89,7 @@
 				5992325A1E895CC5005D9262 /* AppDelegate.m */,
 				5992325C1E895CC5005D9262 /* ViewController.h */,
 				5992325D1E895CC5005D9262 /* ViewController.m */,
-				592A08611E895D8D002C0B94 /* Card.h */,
-				592A08621E895D8D002C0B94 /* Card.m */,
-				592A08641E896228002C0B94 /* Deck.h */,
-				598BFDC61E8A563800F45EB5 /* PlayingCard.h */,
-				598BFDC71E8A563800F45EB5 /* PlayingCard.m */,
-				598BFDC91E8A5D4400F45EB5 /* PlayingCardDeck.h */,
-				598BFDCA1E8A5D4400F45EB5 /* PlayingCardDeck.m */,
-				592A08651E896228002C0B94 /* Deck.m */,
+				598BFDCC1E8A666800F45EB5 /* Model */,
 				5992325F1E895CC5005D9262 /* Main.storyboard */,
 				599232621E895CC5005D9262 /* Assets.xcassets */,
 				599232641E895CC5005D9262 /* LaunchScreen.storyboard */,
